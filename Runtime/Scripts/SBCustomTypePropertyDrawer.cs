@@ -3,7 +3,6 @@
 using UnityEngine;
 using UnityEditor;
 using System.Collections.Generic;
-using Spacebrew.Runtime;
 
 //Original version of the ConditionalHideAttribute created by Brecht Lecluyse (www.brechtos.com)
 //Modified by: Quin Kennedy

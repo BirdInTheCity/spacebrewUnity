@@ -1,12 +1,10 @@
 {
-    "name": "Spacebrew.Editor",
+    "name": "Spacebrew",
     "references": [
         "Runtime",
-        "Runtime.Scripts"
+        "Scripts"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
